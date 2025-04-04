@@ -36,11 +36,27 @@ body {
 }
 
 #stroke-animation {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.stroke-box {
   border: 2px solid #8B0000;
   border-radius: 4px;
   background-color: #fff;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+  /* Remove fixed width/height so it can adapt */
 }
+
+
+
 
 .list-group {
   list-style-type: disc; 
