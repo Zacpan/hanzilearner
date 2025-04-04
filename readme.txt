@@ -1,6 +1,6 @@
 # Hanzi Learner
 
-**Version 0.1 Prototype**
+**Version 0.2 Prototype**
 
 Hanzi Learner is an extension of the [Hanzi Writer](https://hanziwriter.org/) library and designed as a hanzi memorisation tool.
 
