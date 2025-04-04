@@ -1,0 +1,73 @@
+
+body {
+  background-color: #FDF3E7; 
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  padding: 2rem;
+}
+
+.container {
+  border: 1px solid #C9B037;
+  border-radius: 8px;
+  padding: 2rem;
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+
+.hanzi-display {
+  font-family: 'Noto Serif SC', serif;
+  font-size: 8rem;
+  color: #000;
+  margin-bottom: 1rem;
+}
+
+
+.pinyin {
+  font-size: 2rem;
+  color: #8B0000; 
+  margin-bottom: 0.5rem;
+}
+
+
+.translation {
+  font-size: 1.5rem;
+  color: #555;
+  margin-bottom: 2rem;
+}
+
+#stroke-animation {
+  border: 2px solid #8B0000;
+  border-radius: 4px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.list-group {
+  list-style-type: disc; 
+  margin-left: 2rem;     
+}
+
+.list-group-item {
+  border: none;        
+  list-style-position: outside;
+  list-style-type: disc;
+  background-color: transparent;
+
+}
+
+.hanzi-inline {
+  font-family: 'Noto Serif SC', serif;
+  font-size: 3rem;
+  color: #000;
+}
+
+.pinyin-inline {
+  font-size: 1.25rem;
+  color: #8B0000;
+}
+
+.translation-inline {
+  font-size: 1rem;
+  color: #555;
+}
+
