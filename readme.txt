@@ -1,6 +1,6 @@
 # Hanzi Learner
 
-**Version 0.2 Prototype**
+**Version 0.3 Prototype**
 
 Hanzi Learner is an extension of the [Hanzi Writer](https://hanziwriter.org/) library and designed as a hanzi memorisation tool.
 
@@ -8,8 +8,17 @@ Hanzi Learner is an extension of the [Hanzi Writer](https://hanziwriter.org/) li
 
 ## 📦 Version Features
 
-Basic bug fixes
+Hanzi List Overhaul
+    HSK (2.0) Levels 1, 2 & 3
+    Categories
+    Filter function
+    Search function
+
+
+
 ---
+
+
 
 
 ## 🙏 Credit

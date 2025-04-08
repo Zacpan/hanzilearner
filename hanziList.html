@@ -4,19 +4,61 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Hanzi List</title>
-
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Noto+Serif+SC:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
+  <style>
+    #category-container {
+      margin-bottom: 15px;
+    }
+    .category-btn {
+      margin: 3px;
+    }
+    .category-btn.active {
+      background-color: #007bff;
+      color: white;
+    }
+  </style>
 </head>
 <body>
-  <div class="container mt-5">
+  <div class="container my-5">
     <h1 class="text-center mb-4">Hanzi List</h1>
-    <ul id="hanzi-list" class="list-group">
-    </ul>
+    
+    <div class="row mb-3">
+      <div class="col-md-8">
+        <input 
+          type="text"
+          id="search-input"
+          placeholder="Search hanzi, pinyin, or translation"
+          class="form-control"
+        >
+      </div>
+      <div class="col-md-4 text-right">
+        <button id="filter-toggle-btn" class="btn btn-primary">
+          Filter
+        </button>
+      </div>
+    </div>
+    
+    <div id="category-container" style="display:none;">
+      <button class="btn btn-outline-secondary category-btn" data-category="Pronoun">Pronoun</button>
+      <button class="btn btn-outline-secondary category-btn" data-category="Noun">Noun</button>
+      <button class="btn btn-outline-secondary category-btn" data-category="Verb">Verb</button>
+      <button class="btn btn-outline-secondary category-btn" data-category="Adjective">Adjective</button>
+      <button class="btn btn-outline-secondary category-btn" data-category="Adverb">Adverb</button>
+      <button class="btn btn-outline-secondary category-btn" data-category="Phrase">Phrase</button>
+      <button class="btn btn-outline-secondary category-btn" data-category="Measure Word">Measure Word</button>
+      <button class="btn btn-outline-secondary category-btn" data-category="Auxiliary">Auxiliary</button>
+      <button class="btn btn-outline-secondary category-btn" data-category="Preposition">Preposition</button>
+      <button class="btn btn-outline-secondary category-btn" data-category="Conjunction">Conjunction</button>
+      <button class="btn btn-outline-secondary category-btn" data-category="Interjection">Interjection</button>
+      
+      <button id="apply-filter-btn" class="btn btn-success ml-2">Apply</button>
+    </div>
+    
+    <ul id="hanzi-list" class="hanzi-list"></ul>
   </div>
   
+
   <script src="js/hanziList.js"></script>
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>

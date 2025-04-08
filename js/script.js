@@ -1,25 +1,20 @@
 document.addEventListener("DOMContentLoaded", function () {
   const params = new URLSearchParams(window.location.search);
-  const hanziString = params.get('char') || '你'; // fallback to default character
-
-  // Update main hanzi display
+  const hanziString = params.get('char') || '你';
   document.getElementById('hanziDisplay').innerText = hanziString;
 
-// Prepare stroke animation area
 const animationContainer = document.getElementById('stroke-animation');
-animationContainer.innerHTML = ''; // clear previous
+animationContainer.innerHTML = ''; 
 
 const charArray = hanziString.split('');
-const writerWidth = 300; // keep full size for each, let them wrap or scroll
+const writerWidth = 300; 
 
 charArray.forEach((char, index) => {
-  // Outer box with red border
   const strokeBox = document.createElement('div');
-  strokeBox.className = 'stroke-box'; // use CSS for red border etc.
+  strokeBox.className = 'stroke-box'; 
   strokeBox.style.display = 'inline-block';
   strokeBox.style.margin = '10px';
 
-  // Inner div for actual writer canvas
   const charDiv = document.createElement('div');
   charDiv.id = `stroke-char-${index}`;
   charDiv.style.width = '300px';
@@ -40,7 +35,6 @@ charArray.forEach((char, index) => {
 });
 
 
-  // Load pinyin and translation
   fetch('dictionary.json')
     .then(response => response.json())
     .then(dictionary => {

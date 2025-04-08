@@ -1,153 +1,4444 @@
 {
-    "爱": { "pinyin": "ài", "translation": "love", "category": "HSK1" },
-    "八": { "pinyin": "bā", "translation": "eight", "category": "HSK1" },
-    "爸爸": { "pinyin": "bàba", "translation": "dad", "category": "HSK1" },
-    "杯子": { "pinyin": "bēizi", "translation": "cup", "category": "HSK1" },
-    "北京": { "pinyin": "Běijīng", "translation": "Beijing", "category": "HSK1" },
-    "本": { "pinyin": "běn", "translation": "measure word for books", "category": "HSK1" },
-    "不": { "pinyin": "bù", "translation": "not", "category": "HSK1" },
-    "不客气": { "pinyin": "bú kèqi", "translation": "you're welcome", "category": "HSK1" },
-    "菜": { "pinyin": "cài", "translation": "dish; cuisine", "category": "HSK1" },
-    "茶": { "pinyin": "chá", "translation": "tea", "category": "HSK1" },
-    "吃": { "pinyin": "chī", "translation": "eat", "category": "HSK1" },
-    "出租车": { "pinyin": "chūzūchē", "translation": "taxi", "category": "HSK1" },
-    "打": { "pinyin": "dǎ", "translation": "hit; make a phone call", "category": "HSK1" },
-    "大": { "pinyin": "dà", "translation": "big", "category": "HSK1" },
-    "的": { "pinyin": "de", "translation": "possessive particle", "category": "HSK1" },
-    "点": { "pinyin": "diǎn", "translation": "o'clock; a little", "category": "HSK1" },
-    "电脑": { "pinyin": "diànnǎo", "translation": "computer", "category": "HSK1" },
-    "电视": { "pinyin": "diànshì", "translation": "television", "category": "HSK1" },
-    "电影": { "pinyin": "diànyǐng", "translation": "movie", "category": "HSK1" },
-    "东西": { "pinyin": "dōngxi", "translation": "thing", "category": "HSK1" },
-    "都": { "pinyin": "dōu", "translation": "all", "category": "HSK1" },
-    "对不起": { "pinyin": "duìbuqǐ", "translation": "sorry", "category": "HSK1" },
-    "多": { "pinyin": "duō", "translation": "many; much", "category": "HSK1" },
-    "多少": { "pinyin": "duōshao", "translation": "how many; how much", "category": "HSK1" },
-    "儿子": { "pinyin": "érzi", "translation": "son", "category": "HSK1" },
-    "二": { "pinyin": "èr", "translation": "two", "category": "HSK1" },
-    "饭": { "pinyin": "fàn", "translation": "meal; rice", "category": "HSK1" },
-    "飞机": { "pinyin": "fēijī", "translation": "airplane", "category": "HSK1" },
-    "分钟": { "pinyin": "fēnzhōng", "translation": "minute", "category": "HSK1" },
-    "高": { "pinyin": "gāo", "translation": "tall; high", "category": "HSK1" },
-    "个": { "pinyin": "gè", "translation": "general measure word", "category": "HSK1" },
-    "工作": { "pinyin": "gōngzuò", "translation": "work; job", "category": "HSK1" },
-    "汉语": { "pinyin": "Hànyǔ", "translation": "Chinese language", "category": "HSK1" },
-    "好": { "pinyin": "hǎo", "translation": "good", "category": "HSK1" },
-    "号": { "pinyin": "hào", "translation": "number; day", "category": "HSK1" },
-    "和": { "pinyin": "hé", "translation": "and", "category": "HSK1" },
-    "很": { "pinyin": "hěn", "translation": "very", "category": "HSK1" },
-    "后面": { "pinyin": "hòumiàn", "translation": "behind", "category": "HSK1" },
-    "会": { "pinyin": "huì", "translation": "can; know how to", "category": "HSK1" },
-    "火车站": { "pinyin": "huǒchēzhàn", "translation": "train station", "category": "HSK1" },
-    "几": { "pinyin": "jǐ", "translation": "how many; several", "category": "HSK1" },
-    "家": { "pinyin": "jiā", "translation": "home; family", "category": "HSK1" },
-    "叫": { "pinyin": "jiào", "translation": "be called", "category": "HSK1" },
-    "今天": { "pinyin": "jīntiān", "translation": "today", "category": "HSK1" },
-    "九": { "pinyin": "jiǔ", "translation": "nine", "category": "HSK1" },
-    "开": { "pinyin": "kāi", "translation": "open; drive", "category": "HSK1" },
-    "看": { "pinyin": "kàn", "translation": "look; watch", "category": "HSK1" },
-    "看见": { "pinyin": "kànjiàn", "translation": "see", "category": "HSK1" },
-    "块": { "pinyin": "kuài", "translation": "piece; measure word for money", "category": "HSK1" },
-    "快": { "pinyin": "kuài", "translation": "fast", "category": "HSK1" },
-    "来": { "pinyin": "lái", "translation": "come", "category": "HSK1" },
-    "老师": { "pinyin": "lǎoshī", "translation": "teacher", "category": "HSK1" },
-    "了": { "pinyin": "le", "translation": "completed action particle", "category": "HSK1" },
-    "冷": { "pinyin": "lěng", "translation": "cold", "category": "HSK1" },
-    "听": { "pinyin": "tīng", "translation": "listen", "category": "HSK1" },
-    "啤酒": { "pinyin": "píjiǔ", "translation": "beer", "category": "HSK1" },
-    "苹果": { "pinyin": "píngguǒ", "translation": "apple", "category": "HSK1" },
-    "七": { "pinyin": "qī", "translation": "seven", "category": "HSK1" },
-    "钱": { "pinyin": "qián", "translation": "money", "category": "HSK1" },
-    "请": { "pinyin": "qǐng", "translation": "please; invite", "category": "HSK1" },
-    "星期": { "pinyin": "xīngqī", "translation": "week", "category": "HSK1" },
-    "些": { "pinyin": "xiē", "translation": "some", "category": "HSK1" },
-    "小": { "pinyin": "xiǎo", "translation": "small", "category": "HSK1" },
-    "先生": { "pinyin": "xiānsheng", "translation": "Mr.; gentleman", "category": "HSK1" },
-    "现在": { "pinyin": "xiànzài", "translation": "now", "category": "HSK1" },
-    "想": { "pinyin": "xiǎng", "translation": "think; want", "category": "HSK1" },
-    "写": { "pinyin": "xiě", "translation": "write", "category": "HSK1" },
-    "谢谢": { "pinyin": "xièxie", "translation": "thank you", "category": "HSK1" },
-    "学生": { "pinyin": "xuésheng", "translation": "student", "category": "HSK1" },
-    "学习": { "pinyin": "xuéxí", "translation": "study; learn", "category": "HSK1" },
-    "一": { "pinyin": "yī", "translation": "one", "category": "HSK1" },
-    "衣服": { "pinyin": "yīfu", "translation": "clothes", "category": "HSK1" },
-    "医生": { "pinyin": "yīshēng", "translation": "doctor", "category": "HSK1" },
-    "椅子": { "pinyin": "yǐzi", "translation": "chair", "category": "HSK1" },
-    "有": { "pinyin": "yǒu", "translation": "have; there is", "category": "HSK1" },
-    "月": { "pinyin": "yuè", "translation": "month; moon", "category": "HSK1" },
-    "再见": { "pinyin": "zàijiàn", "translation": "goodbye", "category": "HSK1" },
-    "怎么": { "pinyin": "zěnme", "translation": "how", "category": "HSK1" },
-    "怎么样": { "pinyin": "zěnmeyàng", "translation": "how about", "category": "HSK1" },
-    "这": { "pinyin": "zhè", "translation": "this", "category": "HSK1" },
-    "中国": { "pinyin": "Zhōngguó", "translation": "China", "category": "HSK1" },
-    "中午": { "pinyin": "zhōngwǔ", "translation": "noon", "category": "HSK1" },
-    "住": { "pinyin": "zhù", "translation": "live; reside", "category": "HSK1" },
-    "人": { "pinyin": "rén", "translation": "person", "category": "HSK1" },
-    "走": { "pinyin": "zǒu", "translation": "walk", "category": "HSK1" },
-    "坐": { "pinyin": "zuò", "translation": "sit; ride", "category": "HSK1" },
-    "上": { "pinyin": "shàng", "translation": "up; on", "category": "HSK1" },
-    "下": { "pinyin": "xià", "translation": "down; below", "category": "HSK1" },
-    "前": { "pinyin": "qián", "translation": "front", "category": "HSK1" },
-    "后": { "pinyin": "hòu", "translation": "back", "category": "HSK1" },
-    "这里": { "pinyin": "zhèlǐ", "translation": "here", "category": "HSK1" },
-    "那里": { "pinyin": "nàlǐ", "translation": "there", "category": "HSK1" },
-    "谁": { "pinyin": "shéi", "translation": "who", "category": "HSK1" },
-    "什么": { "pinyin": "shénme", "translation": "what", "category": "HSK1" },
-    "哪": { "pinyin": "nǎ", "translation": "which", "category": "HSK1" },
-    "哪儿": { "pinyin": "nǎr", "translation": "where", "category": "HSK1" },
-    "什么时候": { "pinyin": "shénme shíhou", "translation": "when", "category": "HSK1" },
-    "可以": { "pinyin": "kěyǐ", "translation": "can; may", "category": "HSK1" },
-    "喜欢": { "pinyin": "xǐhuan", "translation": "like", "category": "HSK1" },
-    "知道": { "pinyin": "zhīdào", "translation": "know", "category": "HSK1" },
-    "认识": { "pinyin": "rènshi", "translation": "know (a person)", "category": "HSK1" },
-    "请问": { "pinyin": "qǐngwèn", "translation": "may I ask", "category": "HSK1" },
-    "因为": { "pinyin": "yīnwèi", "translation": "because", "category": "HSK1" },
-    "所以": { "pinyin": "suǒyǐ", "translation": "therefore", "category": "HSK1" },
-    "但是": { "pinyin": "dànshì", "translation": "but", "category": "HSK1" },
-    "水": { "pinyin": "shuǐ", "translation": "water", "category": "HSK1" },
-    "回": { "pinyin": "huí", "translation": "return", "category": "HSK1" },
-    "去": { "pinyin": "qù", "translation": "go", "category": "HSK1" },
-    "呢": { "pinyin": "ne", "translation": "question particle", "category": "HSK1" },
-    "坏": { "pinyin": "huài", "translation": "bad", "category": "HSK1" },
-    "对": { "pinyin": "duì", "translation": "correct", "category": "HSK1" },
-    "红": { "pinyin": "hóng", "translation": "red", "category": "HSK1" },
-    "蓝": { "pinyin": "lán", "translation": "blue", "category": "HSK1" },
-    "绿": { "pinyin": "lǜ", "translation": "green", "category": "HSK1" },
-    "黄": { "pinyin": "huáng", "translation": "yellow", "category": "HSK1" },
-    "白": { "pinyin": "bái", "translation": "white", "category": "HSK1" },
-    "黑": { "pinyin": "hēi", "translation": "black", "category": "HSK1" },
-    "睡觉": { "pinyin": "shuìjiào", "translation": "sleep", "category": "HSK1" },
-    "起床": { "pinyin": "qǐchuáng", "translation": "get up", "category": "HSK1" },
-    "洗": { "pinyin": "xǐ", "translation": "wash", "category": "HSK1" },
-    "洗澡": { "pinyin": "xǐzǎo", "translation": "bathe", "category": "HSK1" },
-    "穿": { "pinyin": "chuān", "translation": "wear", "category": "HSK1" },
-    "买": { "pinyin": "mǎi", "translation": "buy", "category": "HSK1" },
-    "卖": { "pinyin": "mài", "translation": "sell", "category": "HSK1" },
-    "报纸": { "pinyin": "bàozhǐ", "translation": "newspaper", "category": "HSK1" },
-    "学校": { "pinyin": "xuéxiào", "translation": "school", "category": "HSK1" },
-    "朋友": { "pinyin": "péngyou", "translation": "friend", "category": "HSK1" },
-    "同学": { "pinyin": "tóngxué", "translation": "classmate", "category": "HSK1" },
-    "家人": { "pinyin": "jiārén", "translation": "family", "category": "HSK1" },
-    "车": { "pinyin": "chē", "translation": "car", "category": "HSK1" },
-    "路": { "pinyin": "lù", "translation": "road", "category": "HSK1" },
-    "东": { "pinyin": "dōng", "translation": "east", "category": "HSK1" },
-    "西": { "pinyin": "xī", "translation": "west", "category": "HSK1" },
-    "南": { "pinyin": "nán", "translation": "south", "category": "HSK1" },
-    "北": { "pinyin": "běi", "translation": "north", "category": "HSK1" },
-    "名字": { "pinyin": "míngzì", "translation": "name", "category": "HSK1" },
-    "字": { "pinyin": "zì", "translation": "character", "category": "HSK1" },
-    "画": { "pinyin": "huà", "translation": "draw; painting", "category": "HSK1" },
-    "问": { "pinyin": "wèn", "translation": "ask", "category": "HSK1" },
-    "答": { "pinyin": "dá", "translation": "answer", "category": "HSK1" },
-    "笔": { "pinyin": "bǐ", "translation": "pen", "category": "HSK1" },
-    "纸": { "pinyin": "zhǐ", "translation": "paper", "category": "HSK1" },
-    "桌子": { "pinyin": "zhuōzi", "translation": "table", "category": "HSK1" },
-    "门": { "pinyin": "mén", "translation": "door", "category": "HSK1" },
-    "窗户": { "pinyin": "chuānghù", "translation": "window", "category": "HSK1" },
-    "鞋": { "pinyin": "xié", "translation": "shoes", "category": "HSK1" },
-    "钱包": { "pinyin": "qiánbāo", "translation": "wallet", "category": "HSK1" },
-    "手表": { "pinyin": "shǒubiǎo", "translation": "watch", "category": "HSK1" },
-    "明天": { "pinyin": "míngtiān", "translation": "tomorrow", "category": "HSK1" },
-    "昨天": { "pinyin": "zuótiān", "translation": "yesterday", "category": "HSK1" }
+  "我": {
+    "pinyin": "wǒ",
+    "translation": "I, me",
+    "tags": {
+      "partsOfSpeech": ["Pronoun"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "我们": {
+    "pinyin": "wǒmen",
+    "translation": "we, us (pl.)",
+    "tags": {
+      "partsOfSpeech": ["Pronoun"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "你": {
+    "pinyin": "nǐ",
+    "translation": "you",
+    "tags": {
+      "partsOfSpeech": ["Pronoun"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "他": {
+    "pinyin": "tā",
+    "translation": "he, him",
+    "tags": {
+      "partsOfSpeech": ["Pronoun"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "她": {
+    "pinyin": "tā",
+    "translation": "she, her",
+    "tags": {
+      "partsOfSpeech": ["Pronoun"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "这": {
+    "pinyin": "zhè",
+    "translation": "this (here)",
+    "tags": {
+      "partsOfSpeech": ["Pronoun", "Demonstrative"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "那": {
+    "pinyin": "nà",
+    "translation": "that (there)",
+    "tags": {
+      "partsOfSpeech": ["Pronoun", "Demonstrative"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "哪": {
+    "pinyin": "nǎ",
+    "translation": "which",
+    "tags": {
+      "partsOfSpeech": ["Pronoun", "Interrogative"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "哪儿": {
+    "pinyin": "nǎr",
+    "translation": "where",
+    "tags": {
+      "partsOfSpeech": ["Pronoun", "Interrogative"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "谁": {
+    "pinyin": "shéi",
+    "translation": "who",
+    "tags": {
+      "partsOfSpeech": ["Pronoun", "Interrogative"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "什么": {
+    "pinyin": "shénme",
+    "translation": "what, why",
+    "tags": {
+      "partsOfSpeech": ["Pronoun", "Interrogative"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "多少": {
+    "pinyin": "duōshǎo",
+    "translation": "how many; how much",
+    "tags": {
+      "partsOfSpeech": ["Pronoun", "Interrogative"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "几": {
+    "pinyin": "jǐ",
+    "translation": "a few, how many",
+    "tags": {
+      "partsOfSpeech": ["Pronoun", "Interrogative"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "怎么": {
+    "pinyin": "zěnme",
+    "translation": "how",
+    "tags": {
+      "partsOfSpeech": ["Adverb", "Interrogative"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "怎么样": {
+    "pinyin": "zěnmeyàng",
+    "translation": "how about",
+    "tags": {
+      "partsOfSpeech": ["Adverb", "Interrogative"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "一": {
+    "pinyin": "yī",
+    "translation": "one",
+    "tags": {
+      "partsOfSpeech": ["Numeral"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "二": {
+    "pinyin": "èr",
+    "translation": "two",
+    "tags": {
+      "partsOfSpeech": ["Numeral"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "三": {
+    "pinyin": "sān",
+    "translation": "three",
+    "tags": {
+      "partsOfSpeech": ["Numeral"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "四": {
+    "pinyin": "sì",
+    "translation": "four",
+    "tags": {
+      "partsOfSpeech": ["Numeral"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "五": {
+    "pinyin": "wǔ",
+    "translation": "five",
+    "tags": {
+      "partsOfSpeech": ["Numeral"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "六": {
+    "pinyin": "liù",
+    "translation": "six",
+    "tags": {
+      "partsOfSpeech": ["Numeral"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "七": {
+    "pinyin": "qī",
+    "translation": "seven",
+    "tags": {
+      "partsOfSpeech": ["Numeral"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "八": {
+    "pinyin": "bā",
+    "translation": "eight",
+    "tags": {
+      "partsOfSpeech": ["Numeral"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "九": {
+    "pinyin": "jiǔ",
+    "translation": "nine",
+    "tags": {
+      "partsOfSpeech": ["Numeral"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "十": {
+    "pinyin": "shí",
+    "translation": "ten",
+    "tags": {
+      "partsOfSpeech": ["Numeral"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "个": {
+    "pinyin": "gè",
+    "translation": "for normal objects",
+    "tags": {
+      "partsOfSpeech": ["Measure Word"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "岁": {
+    "pinyin": "suì",
+    "translation": "for age",
+    "tags": {
+      "partsOfSpeech": ["Measure Word"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "本": {
+    "pinyin": "běn",
+    "translation": "for books",
+    "tags": {
+      "partsOfSpeech": ["Measure Word"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "些": {
+    "pinyin": "xiē",
+    "translation": "some",
+    "tags": {
+      "partsOfSpeech": ["Quantifier"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "块": {
+    "pinyin": "kuài",
+    "translation": "piece, chunk",
+    "tags": {
+      "partsOfSpeech": ["Measure Word"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "不": {
+    "pinyin": "bù",
+    "translation": "no",
+    "tags": {
+      "partsOfSpeech": ["Adverb"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "没": {
+    "pinyin": "méi",
+    "translation": "no",
+    "tags": {
+      "partsOfSpeech": ["Adverb"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "很": {
+    "pinyin": "hěn",
+    "translation": "quite, very",
+    "tags": {
+      "partsOfSpeech": ["Adverb"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "太": {
+    "pinyin": "tài",
+    "translation": "too",
+    "tags": {
+      "partsOfSpeech": ["Adverb"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "都": {
+    "pinyin": "dōu",
+    "translation": "all",
+    "tags": {
+      "partsOfSpeech": ["Adverb"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "一点儿": {
+    "pinyin": "yīdiǎnr",
+    "translation": "a little bit",
+    "tags": {
+      "partsOfSpeech": ["Adverb"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "和": {
+    "pinyin": "hé",
+    "translation": "and",
+    "tags": {
+      "partsOfSpeech": ["Conjunction"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "在": {
+    "pinyin": "zài",
+    "translation": "in, at",
+    "tags": {
+      "partsOfSpeech": ["Preposition"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "的": {
+    "pinyin": "de",
+    "translation": "possessive particle",
+    "tags": {
+      "partsOfSpeech": ["Auxiliary"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "了": {
+    "pinyin": "le",
+    "translation": "completed action particle",
+    "tags": {
+      "partsOfSpeech": ["Auxiliary"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "吗": {
+    "pinyin": "ma",
+    "translation": "question particle",
+    "tags": {
+      "partsOfSpeech": ["Auxiliary"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "呢": {
+    "pinyin": "ne",
+    "translation": "question particle",
+    "tags": {
+      "partsOfSpeech": ["Auxiliary"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "喂": {
+    "pinyin": "wèi",
+    "translation": "hello",
+    "tags": {
+      "partsOfSpeech": ["Interjection"],
+      "usage": ["Informal/Colloquial"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "家": {
+    "pinyin": "jiā",
+    "translation": "home",
+    "tags": {
+      "partsOfSpeech": ["Noun"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "学校": {
+    "pinyin": "xuéxiào",
+    "translation": "school",
+    "tags": {
+      "partsOfSpeech": ["Noun"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "饭店": {
+    "pinyin": "fàndiàn",
+    "translation": "restaurant",
+    "tags": {
+      "partsOfSpeech": ["Noun"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "商店": {
+    "pinyin": "shāngdiàn",
+    "translation": "store",
+    "tags": {
+      "partsOfSpeech": ["Noun"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "医院": {
+    "pinyin": "yīyuàn",
+    "translation": "hospital",
+    "tags": {
+      "partsOfSpeech": ["Noun"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "中国": {
+    "pinyin": "Zhōngguò",
+    "translation": "China",
+    "tags": {
+      "partsOfSpeech": ["Noun"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+  "北京": {
+    "pinyin": "Běijīng",
+    "translation": "Beijing",
+    "tags": {
+      "partsOfSpeech": ["Noun"],
+      "usage": ["Formal"],
+      "linguistic": {
+        "radical": "",
+        "HSKLevel": "HSK1",
+        "frequency": null
+      }
+    }
+  },
+    "上": {
+      "pinyin": "shàng",
+      "translation": "up",
+      "tags": {
+        "partsOfSpeech": ["Adverb"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "下": {
+      "pinyin": "xià",
+      "translation": "down",
+      "tags": {
+        "partsOfSpeech": ["Adverb"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "前面": {
+      "pinyin": "qiánmiàn",
+      "translation": "front",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "后面": {
+      "pinyin": "hòumiàn",
+      "translation": "behind",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "里": {
+      "pinyin": "lǐ",
+      "translation": "inside",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "今天": {
+      "pinyin": "jīntiān",
+      "translation": "today",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "明天": {
+      "pinyin": "míngtiān",
+      "translation": "tomorrow",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "昨天": {
+      "pinyin": "zuótiān",
+      "translation": "yesterday",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "上午": {
+      "pinyin": "shàngwǔ",
+      "translation": "morning",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "中午": {
+      "pinyin": "zhōngwǔ",
+      "translation": "noon",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "下午": {
+      "pinyin": "xiàwǔ",
+      "translation": "afternoon",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "年": {
+      "pinyin": "nián",
+      "translation": "year",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "月": {
+      "pinyin": "yuè",
+      "translation": "month; moon",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "号": {
+      "pinyin": "hào",
+      "translation": "number; day",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "星期": {
+      "pinyin": "xīngqī",
+      "translation": "week",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "点": {
+      "pinyin": "diǎn",
+      "translation": "o'clock",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "分钟": {
+      "pinyin": "fēnzhōng",
+      "translation": "minute",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "现在": {
+      "pinyin": "xiànzài",
+      "translation": "now",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "时候": {
+      "pinyin": "shíhou",
+      "translation": "time",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "爸爸": {
+      "pinyin": "bàba",
+      "translation": "father",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "妈妈": {
+      "pinyin": "māma",
+      "translation": "mother",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "儿子": {
+      "pinyin": "érzi",
+      "translation": "son",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "女儿": {
+      "pinyin": "nǚér",
+      "translation": "daughter",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "老师": {
+      "pinyin": "lǎoshī",
+      "translation": "teacher",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "学生": {
+      "pinyin": "xuésheng",
+      "translation": "student",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "同学": {
+      "pinyin": "tóngxué",
+      "translation": "classmate",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "朋友": {
+      "pinyin": "péngyou",
+      "translation": "friend",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "医生": {
+      "pinyin": "yīshēng",
+      "translation": "doctor",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "先生": {
+      "pinyin": "xiānsheng",
+      "translation": "Mr.; gentleman",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "小姐": {
+      "pinyin": "xiǎojiě",
+      "translation": "Miss",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "衣服": {
+      "pinyin": "yīfu",
+      "translation": "clothes",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "水": {
+      "pinyin": "shuǐ",
+      "translation": "water",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "菜": {
+      "pinyin": "cài",
+      "translation": "dish; cuisine",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "米饭": {
+      "pinyin": "mǐfàn",
+      "translation": "rice",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "水果": {
+      "pinyin": "shuǐguǒ",
+      "translation": "fruit",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "苹果": {
+      "pinyin": "píngguǒ",
+      "translation": "apple",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "茶": {
+      "pinyin": "chá",
+      "translation": "tea",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "杯子": {
+      "pinyin": "bēizi",
+      "translation": "cup",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "钱": {
+      "pinyin": "qián",
+      "translation": "money",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "飞机": {
+      "pinyin": "fēijī",
+      "translation": "airplane",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "出租车": {
+      "pinyin": "chūzūchē",
+      "translation": "taxi",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "电视": {
+      "pinyin": "diànshì",
+      "translation": "television",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "电脑": {
+      "pinyin": "diànnǎo",
+      "translation": "computer",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "电影": {
+      "pinyin": "diànyǐng",
+      "translation": "movie",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "天气": {
+      "pinyin": "tiānqì",
+      "translation": "weather",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "猫": {
+      "pinyin": "māo",
+      "translation": "cat",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "狗": {
+      "pinyin": "gǒu",
+      "translation": "dog",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "东西": {
+      "pinyin": "dōngxi",
+      "translation": "thing",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "人": {
+      "pinyin": "rén",
+      "translation": "person",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "名字": {
+      "pinyin": "míngzi",
+      "translation": "name",
+      "tags": {
+        "partsOfSpeech": ["Noun"],
+        "usage": ["Formal"],
+        "linguistic": {
+          "radical": "",
+          "HSKLevel": "HSK1",
+          "frequency": null
+        }
+      }
+    },
+    "书": {
+  "pinyin": "shū",
+  "translation": "book",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
   }
-  
+},
+"汉语": {
+  "pinyin": "hànyǔ",
+  "translation": "mandarin Chinese",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"字": {
+  "pinyin": "zì",
+  "translation": "character",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"桌子": {
+  "pinyin": "zhuōzi",
+  "translation": "desk",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"椅子": {
+  "pinyin": "yǐzi",
+  "translation": "chair",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"谢谢": {
+  "pinyin": "xièxie",
+  "translation": "thank you",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"不客气": {
+  "pinyin": "búkèqì",
+  "translation": "you're welcome",
+  "tags": {
+    "partsOfSpeech": ["Phrase"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"再见": {
+  "pinyin": "zàijiàn",
+  "translation": "good-bye",
+  "tags": {
+    "partsOfSpeech": ["Phrase"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"请": {
+  "pinyin": "qǐng",
+  "translation": "please",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"对不起": {
+  "pinyin": "duìbuqǐ",
+  "translation": "sorry",
+  "tags": {
+    "partsOfSpeech": ["Phrase"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"没关系": {
+  "pinyin": "méiguānxì",
+  "translation": "It doesn't matter",
+  "tags": {
+    "partsOfSpeech": ["Phrase"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"是": {
+  "pinyin": "shì",
+  "translation": "be (am, is, are)",
+  "tags": {
+    "partsOfSpeech": ["Auxiliary"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"有": {
+  "pinyin": "yǒu",
+  "translation": "have",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"看": {
+  "pinyin": "kàn",
+  "translation": "look",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"听": {
+  "pinyin": "tīng",
+  "translation": "listen",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"说": {
+  "pinyin": "shuō",
+  "translation": "speak",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"读": {
+  "pinyin": "dú",
+  "translation": "read",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"写": {
+  "pinyin": "xiě",
+  "translation": "write",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"看见": {
+  "pinyin": "kànjiàn",
+  "translation": "see",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"叫": {
+  "pinyin": "jiào",
+  "translation": "call",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"来": {
+  "pinyin": "lái",
+  "translation": "come",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"回": {
+  "pinyin": "huí",
+  "translation": "return",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"去": {
+  "pinyin": "qù",
+  "translation": "go",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"吃": {
+  "pinyin": "chī",
+  "translation": "eat",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"喝": {
+  "pinyin": "hē",
+  "translation": "drink",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"睡觉": {
+  "pinyin": "shuìjiào",
+  "translation": "sleep",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"打电话": {
+  "pinyin": "dǎdiànhuà",
+  "translation": "make a phone call",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"做": {
+  "pinyin": "zuò",
+  "translation": "do",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"买": {
+  "pinyin": "mǎi",
+  "translation": "buy",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"开": {
+  "pinyin": "kāi",
+  "translation": "open",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"坐": {
+  "pinyin": "zuò",
+  "translation": "sit",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"住": {
+  "pinyin": "zhù",
+  "translation": "live",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"学习": {
+  "pinyin": "xuéxí",
+  "translation": "study",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"工作": {
+  "pinyin": "gōngzuò",
+  "translation": "work",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"下雨": {
+  "pinyin": "xiàyǔ",
+  "translation": "rain",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"爱": {
+  "pinyin": "ài",
+  "translation": "love",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"喜欢": {
+  "pinyin": "xǐhuān",
+  "translation": "love, like",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"想": {
+  "pinyin": "xiǎng",
+  "translation": "want",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"认识": {
+  "pinyin": "rènshi",
+  "translation": "know",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"会": {
+  "pinyin": "huì",
+  "translation": "can",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"能": {
+  "pinyin": "néng",
+  "translation": "can, be able to",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"好": {
+  "pinyin": "hǎo",
+  "translation": "good",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"大": {
+  "pinyin": "dà",
+  "translation": "big",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"小": {
+  "pinyin": "xiǎo",
+  "translation": "small",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"多": {
+  "pinyin": "duō",
+  "translation": "many, much",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"少": {
+  "pinyin": "shǎo",
+  "translation": "few, little",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"冷": {
+  "pinyin": "lěng",
+  "translation": "cold",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"热": {
+  "pinyin": "rè",
+  "translation": "hot",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"高兴": {
+  "pinyin": "gāoxìng",
+  "translation": "happy",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+"漂亮": {
+  "pinyin": "piàoliang",
+  "translation": "beautiful",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK1",
+      "frequency": null
+    }
+  }
+},
+
+  "您": {
+  "pinyin": "nín",
+  "translation": "you",
+  "tags": {
+    "partsOfSpeech": ["Pronoun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"它": {
+  "pinyin": "tā",
+  "translation": "it",
+  "tags": {
+    "partsOfSpeech": ["Pronoun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"大家": {
+  "pinyin": "dàjiā",
+  "translation": "everyone",
+  "tags": {
+    "partsOfSpeech": ["Pronoun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"每": {
+  "pinyin": "měi",
+  "translation": "every, each",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"为什么": {
+  "pinyin": "wèishéme",
+  "translation": "why",
+  "tags": {
+    "partsOfSpeech": ["Pronoun", "Interrogative"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"零": {
+  "pinyin": "líng",
+  "translation": "zero",
+  "tags": {
+    "partsOfSpeech": ["Numeral"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"两": {
+  "pinyin": "liǎng",
+  "translation": "two",
+  "tags": {
+    "partsOfSpeech": ["Numeral"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"百": {
+  "pinyin": "bǎi",
+  "translation": "hundred",
+  "tags": {
+    "partsOfSpeech": ["Numeral"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"千": {
+  "pinyin": "qiān",
+  "translation": "thousand",
+  "tags": {
+    "partsOfSpeech": ["Numeral"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"第一": {
+  "pinyin": "dìyī",
+  "translation": "first",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"次": {
+  "pinyin": "cì",
+  "translation": "times",
+  "tags": {
+    "partsOfSpeech": ["Measure Word"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"件": {
+  "pinyin": "jiàn",
+  "translation": "piece",
+  "tags": {
+    "partsOfSpeech": ["Measure Word"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"别": {
+  "pinyin": "bié",
+  "translation": "do not",
+  "tags": {
+    "partsOfSpeech": ["Adverb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"非常": {
+  "pinyin": "fēicháng",
+  "translation": "very",
+  "tags": {
+    "partsOfSpeech": ["Adverb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"也": {
+  "pinyin": "yě",
+  "translation": "also",
+  "tags": {
+    "partsOfSpeech": ["Adverb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"还": {
+  "pinyin": "hái",
+  "translation": "still",
+  "tags": {
+    "partsOfSpeech": ["Adverb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"最": {
+  "pinyin": "zuì",
+  "translation": "the most",
+  "tags": {
+    "partsOfSpeech": ["Adverb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"真": {
+  "pinyin": "zhēn",
+  "translation": "really",
+  "tags": {
+    "partsOfSpeech": ["Adverb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"正在": {
+  "pinyin": "zhèngzài",
+  "translation": "be being",
+  "tags": {
+    "partsOfSpeech": ["Adverb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"已经": {
+  "pinyin": "yǐjīng",
+  "translation": "already",
+  "tags": {
+    "partsOfSpeech": ["Adverb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"一起": {
+  "pinyin": "yìqǐ",
+  "translation": "together",
+  "tags": {
+    "partsOfSpeech": ["Adverb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"再": {
+  "pinyin": "zài",
+  "translation": "again",
+  "tags": {
+    "partsOfSpeech": ["Adverb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"就": {
+  "pinyin": "jiù",
+  "translation": "at once",
+  "tags": {
+    "partsOfSpeech": ["Adverb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"因为……所以……": {
+  "pinyin": "yīnwèi...suǒyǐ",
+  "translation": "because...so...",
+  "tags": {
+    "partsOfSpeech": ["Conjunction"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"虽然……但是……": {
+  "pinyin": "suīrán...dànshì",
+  "translation": "although...but...",
+  "tags": {
+    "partsOfSpeech": ["Conjunction"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"从": {
+  "pinyin": "cóng",
+  "translation": "from",
+  "tags": {
+    "partsOfSpeech": ["Preposition"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"比": {
+  "pinyin": "bǐ",
+  "translation": "comparing to",
+  "tags": {
+    "partsOfSpeech": ["Preposition"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"往": {
+  "pinyin": "wǎng",
+  "translation": "toward, to",
+  "tags": {
+    "partsOfSpeech": ["Preposition"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"离": {
+  "pinyin": "lí",
+  "translation": "indicate the distance",
+  "tags": {
+    "partsOfSpeech": ["Preposition"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"得": {
+  "pinyin": "de",
+  "translation": "complement marker",
+  "tags": {
+    "partsOfSpeech": ["Auxiliary"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"着": {
+  "pinyin": "zhe",
+  "translation": "continuous aspect marker",
+  "tags": {
+    "partsOfSpeech": ["Auxiliary"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"过": {
+  "pinyin": "guò",
+  "translation": "past experience marker",
+  "tags": {
+    "partsOfSpeech": ["Auxiliary"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"吧": {
+  "pinyin": "ba",
+  "translation": "modal particle",
+  "tags": {
+    "partsOfSpeech": ["Auxiliary"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"机场": {
+  "pinyin": "jīchǎng",
+  "translation": "airport",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"教室": {
+  "pinyin": "jiàoshì",
+  "translation": "classroom",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"房间": {
+  "pinyin": "fángjiān",
+  "translation": "room",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"路": {
+  "pinyin": "lù",
+  "translation": "road",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"左边": {
+  "pinyin": "zuǒbiān",
+  "translation": "left",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"右边": {
+  "pinyin": "yòubiān",
+  "translation": "right",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"外": {
+  "pinyin": "wài",
+  "translation": "outside",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"旁边": {
+  "pinyin": "pángbiān",
+  "translation": "side",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+
+"姐姐": {
+  "pinyin": "jiějie",
+  "translation": "older sister",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"弟弟": {
+  "pinyin": "dìdi",
+  "translation": "younger brother",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"妹妹": {
+  "pinyin": "mèimei",
+  "translation": "younger sister",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"丈夫": {
+  "pinyin": "zhàngfu",
+  "translation": "husband",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"妻子": {
+  "pinyin": "qīzi",
+  "translation": "wife",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"孩子": {
+  "pinyin": "háizi",
+  "translation": "child",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"男人": {
+  "pinyin": "nánrén",
+  "translation": "man",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"女人": {
+  "pinyin": "nǚrén",
+  "translation": "woman",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"服务员": {
+  "pinyin": "fúwùyuán",
+  "translation": "waiter",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"鱼": {
+  "pinyin": "yú",
+  "translation": "fish",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"羊肉": {
+  "pinyin": "yángròu",
+  "translation": "mutton",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"牛奶": {
+  "pinyin": "niúnǎi",
+  "translation": "milk",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"鸡蛋": {
+  "pinyin": "jīdàn",
+  "translation": "egg",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"西瓜": {
+  "pinyin": "xīguā",
+  "translation": "watermelon",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"咖啡": {
+  "pinyin": "kāfēi",
+  "translation": "coffee",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"雪": {
+  "pinyin": "xuě",
+  "translation": "snow",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"药": {
+  "pinyin": "yào",
+  "translation": "medicine",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"手机": {
+  "pinyin": "shǒujī",
+  "translation": "cellphone",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"手表": {
+  "pinyin": "shǒubiǎo",
+  "translation": "watch",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"眼睛": {
+  "pinyin": "yǎnjīng",
+  "translation": "eye",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"身体": {
+  "pinyin": "shēntǐ",
+  "translation": "body",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"公共汽车": {
+  "pinyin": "gōnggòngqìchē",
+  "translation": "bus",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"报纸": {
+  "pinyin": "bàozhǐ",
+  "translation": "newspaper",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"门": {
+  "pinyin": "mén",
+  "translation": "door",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"题": {
+  "pinyin": "tí",
+  "translation": "topic, item",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"课": {
+  "pinyin": "kè",
+  "translation": "lesson",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"姓": {
+  "pinyin": "xìng",
+  "translation": "surname",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"问题": {
+  "pinyin": "wèntí",
+  "translation": "question",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"事情": {
+  "pinyin": "shìqing",
+  "translation": "matter",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"考试": {
+  "pinyin": "kǎoshì",
+  "translation": "exam",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"票": {
+  "pinyin": "piào",
+  "translation": "ticket",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"意思": {
+  "pinyin": "yìsi",
+  "translation": "meaning",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"颜色": {
+  "pinyin": "yánsè",
+  "translation": "color",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"铅笔": {
+  "pinyin": "qiánbǐ",
+  "translation": "pencil",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"面条": {
+  "pinyin": "miàntiáo",
+  "translation": "noodle",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"火车站": {
+  "pinyin": "huǒchēzhàn",
+  "translation": "train station",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"公司": {
+  "pinyin": "gōngsī",
+  "translation": "company",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"宾馆": {
+  "pinyin": "bīngguǎn",
+  "translation": "hotel",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"说话": {
+  "pinyin": "shuōhuà",
+  "translation": "talk",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"卖": {
+  "pinyin": "mài",
+  "translation": "sell",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"问": {
+  "pinyin": "wèn",
+  "translation": "ask",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"走": {
+  "pinyin": "zǒu",
+  "translation": "walk",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"进": {
+  "pinyin": "jìn",
+  "translation": "enter",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"出": {
+  "pinyin": "chū",
+  "translation": "come out",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"跑步": {
+  "pinyin": "pǎobù",
+  "translation": "run",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"到": {
+  "pinyin": "dào",
+  "translation": "arrive",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"穿": {
+  "pinyin": "chuān",
+  "translation": "wear",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"洗": {
+  "pinyin": "xǐ",
+  "translation": "wash",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"给": {
+  "pinyin": "gěi",
+  "translation": "give",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"找": {
+  "pinyin": "zhǎo",
+  "translation": "find",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+
+"懂": {
+  "pinyin": "dǒng",
+  "translation": "understand",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"笑": {
+  "pinyin": "xiào",
+  "translation": "smile",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"告诉": {
+  "pinyin": "gàosù",
+  "translation": "tell",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"准备": {
+  "pinyin": "zhǔnbèi",
+  "translation": "prepare",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"开始": {
+  "pinyin": "kāishǐ",
+  "translation": "begin",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"介绍": {
+  "pinyin": "jièshào",
+  "translation": "introduce",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"帮助": {
+  "pinyin": "bāngzhù",
+  "translation": "help",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"玩": {
+  "pinyin": "wán",
+  "translation": "play",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"送": {
+  "pinyin": "sòng",
+  "translation": "present",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"等": {
+  "pinyin": "děng",
+  "translation": "wait",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"让": {
+  "pinyin": "ràng",
+  "translation": "let",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"起床": {
+  "pinyin": "qǐchuáng",
+  "translation": "get up",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"唱歌": {
+  "pinyin": "chànggē",
+  "translation": "sing",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"跳舞": {
+  "pinyin": "tiàowǔ",
+  "translation": "dance",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"旅游": {
+  "pinyin": "lǚyóu",
+  "translation": "travel",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"上班": {
+  "pinyin": "shàngbān",
+  "translation": "be on duty",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"生病": {
+  "pinyin": "shēngbìng",
+  "translation": "get ill, get sick",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"休息": {
+  "pinyin": "xiūxi",
+  "translation": "rest",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"运动": {
+  "pinyin": "yùndòng",
+  "translation": "exercise",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"游泳": {
+  "pinyin": "yóuyǒng",
+  "translation": "swim",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"踢足球": {
+  "pinyin": "tīzúqiú",
+  "translation": "play football",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"打篮球": {
+  "pinyin": "dǎlánqiú",
+  "translation": "play basketball",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"完": {
+  "pinyin": "wán",
+  "translation": "finish",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"觉得": {
+  "pinyin": "juédé",
+  "translation": "think",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"知道": {
+  "pinyin": "zhīdao",
+  "translation": "know",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"希望": {
+  "pinyin": "xīwàng",
+  "translation": "hope",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"可以": {
+  "pinyin": "kěyǐ",
+  "translation": "can",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"要": {
+  "pinyin": "yào",
+  "translation": "want",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"可能": {
+  "pinyin": "kěnéng",
+  "translation": "may",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"高": {
+  "pinyin": "gāo",
+  "translation": "tall",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"红": {
+  "pinyin": "hóng",
+  "translation": "red",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"白": {
+  "pinyin": "bái",
+  "translation": "white",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"黑": {
+  "pinyin": "hēi",
+  "translation": "black",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"忙": {
+  "pinyin": "máng",
+  "translation": "busy",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"快": {
+  "pinyin": "kuài",
+  "translation": "fast",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"慢": {
+  "pinyin": "màn",
+  "translation": "slow",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"远": {
+  "pinyin": "yuǎn",
+  "translation": "far",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"近": {
+  "pinyin": "jìn",
+  "translation": "close",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"好吃": {
+  "pinyin": "hǎochī",
+  "translation": "delicious",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"累": {
+  "pinyin": "lèi",
+  "translation": "tired",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"长": {
+  "pinyin": "cháng",
+  "translation": "long",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"新": {
+  "pinyin": "xīn",
+  "translation": "new",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"贵": {
+  "pinyin": "guì",
+  "translation": "expensive",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"便宜": {
+  "pinyin": "piányi",
+  "translation": "cheap",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"晴": {
+  "pinyin": "qíng",
+  "translation": "fine",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"阴": {
+  "pinyin": "yīn",
+  "translation": "cloudy",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"错": {
+  "pinyin": "cuò",
+  "translation": "wrong",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"快乐": {
+  "pinyin": "kuàilè",
+  "translation": "happy",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"对": {
+  "pinyin": "duì",
+  "translation": "to",
+  "tags": {
+    "partsOfSpeech": ["Preposition"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"对": {
+  "pinyin": "duì",
+  "translation": "right",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+
+
+"选择": {
+  "pinyin": "xuǎnzé",
+  "translation": "choice",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"要求": {
+  "pinyin": "yāoqiú",
+  "translation": "requirement",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"爷爷": {
+  "pinyin": "yéye",
+  "translation": "grandpa",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"一定": {
+  "pinyin": "yídìng",
+  "translation": "certain",
+  "tags": {
+    "partsOfSpeech": ["Adverb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"一共": {
+  "pinyin": "yígòng",
+  "translation": "altogether",
+  "tags": {
+    "partsOfSpeech": ["Adverb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"一会儿": {
+  "pinyin": "yíhuìr",
+  "translation": "a while",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"一样": {
+  "pinyin": "yíyàng",
+  "translation": "equally",
+  "tags": {
+    "partsOfSpeech": ["Adverb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"以前": {
+  "pinyin": "yǐqián",
+  "translation": "before",
+  "tags": {
+    "partsOfSpeech": ["Adverb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"一般": {
+  "pinyin": "yìbān",
+  "translation": "commonly",
+  "tags": {
+    "partsOfSpeech": ["Adverb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"一边": {
+  "pinyin": "yìbiān",
+  "translation": "one side",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"一直": {
+  "pinyin": "yìzhí",
+  "translation": "always",
+  "tags": {
+    "partsOfSpeech": ["Adverb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"音乐": {
+  "pinyin": "yīnyuè",
+  "translation": "music",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"银行": {
+  "pinyin": "yínháng",
+  "translation": "bank",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"饮料": {
+  "pinyin": "yǐnliào",
+  "translation": "drinks",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"应该": {
+  "pinyin": "yīnggāi",
+  "translation": "should",
+  "tags": {
+    "partsOfSpeech": ["Auxiliary"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"影响": {
+  "pinyin": "yǐngxiǎng",
+  "translation": "influence",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"用": {
+  "pinyin": "yòng",
+  "translation": "use",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"游戏": {
+  "pinyin": "yóuxì",
+  "translation": "game",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"有名": {
+  "pinyin": "yǒumíng",
+  "translation": "famous",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"又": {
+  "pinyin": "yòu",
+  "translation": "again",
+  "tags": {
+    "partsOfSpeech": ["Adverb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"遇到": {
+  "pinyin": "yùdào",
+  "translation": "encounter",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"元": {
+  "pinyin": "yuán",
+  "translation": "element; yuan",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"愿意": {
+  "pinyin": "yuànyì",
+  "translation": "be willing",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"月亮": {
+  "pinyin": "yuèliang",
+  "translation": "moon",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"越": {
+  "pinyin": "yuè",
+  "translation": "the more",
+  "tags": {
+    "partsOfSpeech": ["Adverb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"站": {
+  "pinyin": "zhàn",
+  "translation": "station",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"张": {
+  "pinyin": "zhāng",
+  "translation": "Zhang (surname)",
+  "tags": {
+    "partsOfSpeech": ["Surname"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"长": {
+  "pinyin": "zhǎng",
+  "translation": "grow",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"着急": {
+  "pinyin": "zháojí",
+  "translation": "worry",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"照顾": {
+  "pinyin": "zhàogù",
+  "translation": "look after",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"照片": {
+  "pinyin": "zhàopiàn",
+  "translation": "photo",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"照相机": {
+  "pinyin": "zhàoxiàngjī",
+  "translation": "camera",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"只_量词": {
+  "pinyin": "zhī",
+  "translation": "measure word",
+  "tags": {
+    "partsOfSpeech": ["Measure Word"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"只_副词": {
+  "pinyin": "zhǐ",
+  "translation": "only",
+  "tags": {
+    "partsOfSpeech": ["Adverb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"只有……才……": {
+  "pinyin": "zhǐyǒu…cái…",
+  "translation": "only if",
+  "tags": {
+    "partsOfSpeech": ["Conjunction"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"中文": {
+  "pinyin": "zhōngwén",
+  "translation": "Chinese",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"中间": {
+  "pinyin": "zhōngjiān",
+  "translation": "middle",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"终于": {
+  "pinyin": "zhōngyú",
+  "translation": "finally",
+  "tags": {
+    "partsOfSpeech": ["Adverb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"种": {
+  "pinyin": "zhǒng",
+  "translation": "species",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"重要": {
+  "pinyin": "zhòngyào",
+  "translation": "important",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"周末": {
+  "pinyin": "zhōumò",
+  "translation": "weekend",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"主要": {
+  "pinyin": "zhǔyào",
+  "translation": "main",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"注意": {
+  "pinyin": "zhùyì",
+  "translation": "be careful",
+  "tags": {
+    "partsOfSpeech": ["Verb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"自己": {
+  "pinyin": "zìjǐ",
+  "translation": "self",
+  "tags": {
+    "partsOfSpeech": ["Pronoun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"自行车": {
+  "pinyin": "zìxíngchē",
+  "translation": "bicycle",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"总是": {
+  "pinyin": "zǒngshì",
+  "translation": "always",
+  "tags": {
+    "partsOfSpeech": ["Adverb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"嘴": {
+  "pinyin": "zuǐ",
+  "translation": "mouth",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"最后": {
+  "pinyin": "zuìhòu",
+  "translation": "last",
+  "tags": {
+    "partsOfSpeech": ["Adjective"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"最近": {
+  "pinyin": "zuìjìn",
+  "translation": "lately",
+  "tags": {
+    "partsOfSpeech": ["Adverb"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+},
+"作业": {
+  "pinyin": "zuòyè",
+  "translation": "homework",
+  "tags": {
+    "partsOfSpeech": ["Noun"],
+    "usage": ["Formal"],
+    "linguistic": {
+      "radical": "",
+      "HSKLevel": "HSK2",
+      "frequency": null
+    }
+  }
+}
+
+
+
+
+}
